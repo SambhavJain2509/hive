@@ -1,4 +1,4 @@
-#!/bin/bash
+o#!/bin/bash
 #
 # quickstart.sh - Interactive onboarding for Aden Agent Framework
 #
